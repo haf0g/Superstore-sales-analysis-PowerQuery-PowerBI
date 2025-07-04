@@ -26,10 +26,15 @@ This BI project analyzes sales performance for Global SuperStore (2012-2015) usi
 - **Time Trends**: Q4 sales spikes (+23% YoY)
 - **Category Breakdown**: Technology leads revenue (42% share)
 
+>![image](https://github.com/user-attachments/assets/2e24759f-16c3-4e12-ba76-06cb43acb080)
+
+
 ### 2. Regional Analysis
 - **Comparative Bars**: CA favors tech, NY prefers office supplies
 - **Dynamic Filters**: Drill-down by year/region
 - **Profit Heatmap**: Corporate segment dominates in major cities
+>![image](https://github.com/user-attachments/assets/e2d74617-245e-4b89-bd1b-132c98b41a7b)
+
 
 ### 3. Operational Insights
 - **Delivery Metrics**: Home offices experience 15% longer delays
