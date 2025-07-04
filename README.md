@@ -42,11 +42,13 @@ This BI project analyzes sales performance for Global SuperStore (2012-2015) usi
 
 ## 📂 Repository Structure
 
+```
 /Global_SuperStore_BI
 ├── Data/ # Original Excel files
 ├── Power BI Dashboard/ # PBIX files
 ├── Documentation/ # Project report (PDF)
 └── README.md # This file
+```
 
 ## 🎓 Academic Context
 Developed as part of ENSA's Business Intelligence module (CI-ISBD/S8 - May 2025) under Prof. Hamid Hrimech's guidance.
